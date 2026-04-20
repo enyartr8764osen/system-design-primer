@@ -44,6 +44,14 @@ The provided [Anki flashcard decks](https://apps.ankiweb.net/) use spaced repeti
 * [System design exercises deck](https://github.com/donnemartin/system-design-primer/tree/master/resources/flash_cards/System%20Design%20Exercises.apkg)
 * [Object oriented design exercises deck](https://github.com/donnemartin/system-design-primer/tree/master/resources/flash_cards/OO%20Design.apkg)
 
+## My Study Progress
+
+> **Personal note:** Tracking my progress through this guide. Started 2024-01.
+> - [x] Performance vs scalability
+> - [x] Latency vs throughput
+> - [ ] Availability vs consistency
+> - [ ] Database (in progress)
+
 ## Contributing
 
 Contributions are welcome! Please read the [contributing guidelines](CONTRIBUTING.md).
@@ -71,15 +79,4 @@ Credits and sources are provided throughout this repo.
 
 Special thanks to:
 
-- [Hired in Tech](http://www.hiredintech.com/system-design/the-system-design-process/)
-- [Cracking the Coding Interview](https://www.amazon.com/dp/0984782850/)
-
-## License
-
-*I am providing code and resources in this repository to you under an open source license. Because this is my personal repository, the license you receive to my code and resources is from me and not my employer.*
-
-    Copyright 2017 Donne Martin
-
-    Creative Commons Attribution 4.0 International License (CC BY 4.0)
-
-    http://creativecommons.org/licenses/by/4.0/
+- [Hired in Tech](http://www.hiredintech.c
