@@ -1,10 +1,13 @@
+>
 > * 原文地址：[github.com/donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)
 > * 译文出自：[掘金翻译计划](https://github.com/xitu/gold-miner)
-> * 译者：[XatMassacrE](https://github.com/XatMassacrE)、[L9m](https://github.com/L9m)、[Airmacho](https://github.com/Airmacho)、[xiaoyusilen](https://github.com/xiaoyusilen)、[jifaxu](https://github.com/jifaxu)、[根号三](https://github.com](https://github.com/xmaster) 用来查看本否有差别（如果你 发生变化，那就意味着这份翻译文档是最新的）。
+> * 译者：[XatMassacrE](https://github.com/XatMassacrE)、[L9m](https://github.com/L9m)、[Airmacho](https://github.com/Airmacho)、[xiaoyusilen](https://github.com/xiaoyusilen)、[jifaxu](https://github.com/jifaxu)、[根号三](https://github.com/xmaster)
 
-*[English]( [日本語](README-ja简体中文](README-zh-Hans.md) ∙ [繁體中文](README-zh-TW.md) | [العَرَبِيَّة‎](https://github.com/donnemartin/system-design-primer/issues/170) ∙ [বাংলprimer/issues/220) tin/system-design-primer/issues/40) ∙ ∙ [ελλη ∙ [עברית.com/donnemartin/systemdonnemartin/system-design-primer/issues/102) ∙ [فارسی](tin/system-design-primer/](https://github.com/donn [русский язык](https/87) ∙ [/donnemartin/system-design∙ [ภาษ) ∙ [Türkçe](https://github.com/donnemartin/system-design-primer/issues/39)com/donnemartin/system- ∙ [Français](tin/system-design-primer/](https://github.com/donnn# 系统设计入人学习笔记：重点关注「「消息队列」和「数据库三个章节 -->
+# 系统设计入门
 
-目的
+<!-- 个人学习笔记：重点关注「消息队列」和「数据库」这两个章节 -->
+
+## 目的
 
 > 学习如何设计大型系统。
 >
@@ -16,19 +19,17 @@
 
 系统设计是一个很宽泛的话题。在互联网上，**关于系统设计原则的资源也是多如牛毛。**
 
-这个仓库就是这些资源的**组织收集**，它可以帮助你学习如何构建可扩展的系统。
+这个资源的**组织收集**，它可以帮助你学习如何构建可扩展的系统。
 
 ### 从开源社区学习
 
-这是一个不断更新的开源项目的初期的版本。
+新的开源项目的初期的版本。
 
 欢迎[贡献](#贡献)！
 
-### 为系统设计的面试做准备
+### 为系统设计的面试在很多科技公司中，除了代码面试，系统设计也是**技术面试过程**中的一个**必要环节**。
 
-在很多科技公司中，除了代码面试，系统设计也是**技术面试过程**中的一个**必要环节**。
-
-**实践常见的系统设计面试题**并且把你的答案和**例子的解答**进行**对照**：讨论，代码和图表。
+**实践常试题**并且把你的答案和**例子的解答**进行**对照**：讨论，代码和图表。
 
 面试准备的其他主题：
 
@@ -56,5 +57,3 @@
 ### 代码资源：互动式编程挑战
 
 你正在寻找资源以准备[**编程面试**](https://github.com/donnemartin/interactive-coding-challenges)吗？
-
-<p align="cente
